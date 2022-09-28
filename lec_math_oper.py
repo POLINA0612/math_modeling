@@ -1,0 +1,6 @@
+print(6+8)
+print(6-4)
+print(8 ** 4)
+print(8 / 9)
+print(8 // 9)
+print(8 % 9)
